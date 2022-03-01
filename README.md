@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @UezarDev
+# 👋 Hi, I’m @UezarDev
+
 - 👀 I’m interested in Desing and programing
 - 🌱 I’m currently learning flutter app development
 - 💞️ I’m looking to collaborate on anything that will make me rich
