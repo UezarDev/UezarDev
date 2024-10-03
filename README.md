@@ -2,9 +2,9 @@
 <h2 align="center">A self-taught programmer who can learn anything</h2>
 
 - 👀 I’m interested in Desing and programing
-- 🌱 I’m currently learning Godot game engine
+- 🌱 I’m currently learning more about Fullstack Development
 - 💞️ I’m looking to collaborate on anything that helps me step up
-- 📫 How to reach me, on my email uezarwork@gmail.com
+- 📫 You can reach me on my email, uezarwork@gmail.com
 
 <!---
 UezarDev/UezarDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
